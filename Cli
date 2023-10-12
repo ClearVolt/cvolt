@@ -1,0 +1,11 @@
+create the token in the CLi
+
+spl-token create-token
+
+spl-token supply 
+
+spl-token create-account 
+
+spl-token create-account 
+
+spl-token mint 
